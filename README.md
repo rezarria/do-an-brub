@@ -21,7 +21,10 @@ Chức năng của hệ thống bao gồm:
 
 ## Hướng dẫn sử dụng
 
-1. Clone project.
+1. Clone project bằng lệnh sau
+```
+git clone https://github.com/rezarria/do-an-brub.git --recursive
+```
 2. Cấu hình file appsettings.json
     * Thay đổi connectionstring
 3. Chạy
