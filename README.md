@@ -14,7 +14,7 @@ Chức năng của hệ thống bao gồm:
 
 ## Yêu cầu môi trường
 
-* **[.NET SDK 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)** hoặc **[cao hơn](https://dotnet.microsoft.com/en-us/download/dotnet)**.
+* **[.NET SDK 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)** hoặc **[cao hơn](https://dotnet.microsoft.com/en-us/download/dotnet)**.
 * **[Microsoft Sql Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)** hoặc **[MySql](https://dev.mysql.com/downloads/)**, **[MariaDB](https://mariadb.org/download/)**.
 
 ***
