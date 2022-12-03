@@ -1,6 +1,6 @@
-[submodule "Api"]
+[submodule "ApiDoAnWeb"]
 	path = Api
 	url = https://github.com/rezarria/ApiDoAnWeb
-[submodule "Client"]
+[submodule "ClientDoAnWeb"]
 	path = Client
 	url = https://github.com/rezarria/ClientDoAnWeb
