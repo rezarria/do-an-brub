@@ -1,0 +1,38 @@
+{
+  "cake": {
+    "enabled": true
+  },
+  "FileOptions": {
+    "SystemExcludeSearchPatterns": [
+      "**/node_modules/**/*",
+      "**/bin/**/*",
+      "**/obj/**/*",
+      "**/.git/**/*",
+      "**/wwwroot/**/*"
+    ]
+  },
+  "FormattingOptions": {
+    "EnableEditorConfigSupport": true,
+    "UseTabs": true
+  },
+  "RoslynExtensionsOptions": {
+    "EnableAnalyzersSupport": true,
+    "DocumentAnalysisTimeoutMs": 1000,
+    "EnableDecompilationSupport": true
+  },
+  "ImplementTypeOptions": {
+    "InsertionBehavior": "AtTheEnd",
+    "PropertyGenerationBehavior": "PreferThrowingProperties"
+  },
+  "Plugins": {
+  },
+  "RenameOptions": {
+    "RenameInComments": true,
+    "RenameInStrings": true,
+    "RenameOverloads": true
+  },
+  "script": {
+    "enabled": true,
+    "enableScriptNuGetReferences": true
+  }
+}
