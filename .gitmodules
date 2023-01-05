@@ -4,3 +4,6 @@
 [submodule "ClientDoAnWeb"]
 	path = Client
 	url = https://github.com/rezarria/ClientDoAnWeb
+[submodule "RezUtility"]
+	path = RezUtility
+	url = https://github.com/rezarria/RezUtility
